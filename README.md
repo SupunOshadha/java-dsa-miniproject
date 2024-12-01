@@ -1,6 +1,6 @@
 # Java DSA Mini Project
 
-This project was developed as part of my academic coursework in the "Data Structures and Algorithms" module at [Your University Name]. It demonstrates the use of various data structures and hashing techniques to process and manage textual data.
+This project was developed as part of my academic coursework in the "Data Structures and Algorithms" module at OUSL. It demonstrates the use of various data structures and hashing techniques to process and manage textual data.
 
 ## 📂 Project Structure
 - **`MiniProject.java`**: The main entry point of the application.
